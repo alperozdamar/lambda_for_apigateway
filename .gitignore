@@ -1,11 +1,7 @@
 
 target/original-lambda-apigateway-0.0.1-SNAPSHOT.jar
-target/original-lambda-apigateway-0.0.1-SNAPSHOT.jar
-target/lambda-apigateway-0.0.1-SNAPSHOT.jar
 target/lambda-apigateway-0.0.1-SNAPSHOT.jar
 *.jar
-target/original-lambda-apigateway-0.0.1-SNAPSHOT.jar
-target/lambda-apigateway-0.0.1-SNAPSHOT.jar
 target/classes/com/test/Student.class
 target/classes/com/test/ResourceNotFoundException.class
 target/classes/com/test/Request.class
