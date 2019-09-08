@@ -1,4 +1,5 @@
 # lambda_for_apigateway
-Serverless Architecture using AWS Lambda, API Gateway and DynamoDB using Java.
+Serverless Architecture using AWS Lambda, API Gateway and MysqlDB using Java.
 
-https://www.youtube.com/watch?v=TbCNVApI4lA
+
+
